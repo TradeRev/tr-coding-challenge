@@ -6,7 +6,6 @@ This is a coding challenge for prospective Software Developer/Full Stack Develop
 ## Goal: You have been tasked with building part of a simple online auction system which will allow users to bid on cars for sale.
 
 #### Provide a bid tracker interface and concrete implementation with the following functionality:
-- [ ] Fork this repo. Keep it public until we have been able to review it.
 
 - [ ] Record a user's bid on a car
 - [ ] Get the current winning bid for a car
@@ -19,7 +18,7 @@ Bouns:
 
 
 You may use any appropriate libraries to help. Use the language that you feel you are the strongest
-
+- [ ] Fork this repo. Keep it public until we have been able to review it.
 
 ### Evaluation:
 Your application will be reviewed by our engineers. We do take into consideration your experience level.
