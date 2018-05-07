@@ -1,41 +1,40 @@
 # Software Developer Developer Coding Challenge
 
-This is a coding challenge for prospective Software Developer/Full Stack Developer/Backend Developer applicants applying through http://work.traderev.com/
-
-# Simple Online Car Auction System
-## Goal: You have been tasked with building part of a simple online auction system which will allow users to bid on cars for sale.
-
-#### Provide a bid tracker interface and concrete implementation with the following functionality:
-
-- [ ] Record a user's bid on a car
-- [ ] Get the current winning bid for a car
-- [ ] Get all the bids for a car
-- [ ] Get all the cars on which a user has bid
-
-Bouns:
-- [ ] Unit Tests on the above functions
-- [ ] GUI (or CLI) or persistent storage.
+## Purpose
+This challenge is part of the interview process for Software Developer position at TradeRev. Its purpose is for candidates to demonstrate their problem solving ability, development experience in a mildly realistic development context and for us to establish a starting point for a technical on-site interview down the line.
 
 
-You may use any appropriate libraries to help. Use the language that you feel you are the strongest
-- [ ] Fork this repo. Keep it public until we have been able to review it.
+## Functional Spec
+You have been tasked with building a simple online car auction system which will allow users to bid on cars for sale and with the following funcitionalies: 
 
-### Evaluation:
-Your application will be reviewed by our engineers. We do take into consideration your experience level.
+  - [ ] A simple auction bidding system
+  - [ ] Record a user's bid on a car
+  - [ ] Get the current winning bid for a car
+  - [ ] Get a car's bidding history 
 
-We value quality over feature-completeness. It is fine to leave things aside provided you call them out in your project's README. If you are invited for an on-site interview, we will go through your solution together with you so that you can explain the thoughts behind your technological, tooling, architectural and algorithmic decisions.
+ ### Bouns:
 
-The aspects of your code we will assess include:
-- [ ] Correctness: does the function do what was asked? If there is anything missing, does the README explain why it is missing?
-- [ ] Architecture: Deign of the functions. Is the code structured in a reusable and easily adaptable way?
-- [ ] Code quality: is the code simple, easy to understand, and maintainable? Are there any code smells or other red flags? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
-- [ ] Testing: do you have some unit and some integration tests?
-- [ ] Technical choices: do choices of libraries, databases, architecture etc. seem appropriate for the chosen application?
+  - [ ] Unit Tests on the above functions
+  - [ ] Develop a UI on web or mobile or CLI to showcase the above functionality
 
 
+## Expectations
+ - You may use any appropriate libraries to help
+ - Use the language that you feel you are the strongest
+ - Please fork https://github.com/DavidLiu-traderev/software_developer_code_challenge and keep it public until we have been able to review it
+ - Provide a README to run/build the project and explain anything that you leave aside
 
+## Assessment
+Your application will be reviewed by our engineers. We do take into consideration your experience level. If you are invited for an on-site interview, we will go through your solution together with you so that you can explain the thoughts behind your technological, tooling, architectural and algorithmic decisions.
 
+We value quality over feature-completeness. It is fine to leave things aside provided you call them out in your project's README.
 
+### The aspects of your code we will assess include:
 
-
-
+ - [ ] Architecture: Conforms to SOLID principles.
+ - [ ] Clarity: Code is easily understood and communicative. README is clearly and concisely explains the problem and solution. Git commit history is consistent, easy to follow and understand. Technical tradeoffs explanations.
+ - [ ] Correctness: App operates as intended, no crashes and warnings.
+ - [ ] Code quality: Code is easy to understand, maintainable and extendible. Coding style is consistent and follows the language’s coding conventions. No obvious bugs in the code.
+ - [ ] Technical choices: Appropriate choices of libraries, databases, architecture etc.
+ - [ ] Testing: Automated tests quality. Tests are flexible and maintainable upon requirment changes. Not looking for full coverage (given time constraint) but just trying to get a feel for your testing skills.
+ - [ ] UX: Intuitive and pleasing to use.
