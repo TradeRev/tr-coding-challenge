@@ -1,4 +1,4 @@
-# Software Developer Developer Coding Challenge
+# Software Developer Coding Challenge
 
 ## Purpose
 This challenge is part of the interview process for Software Developer position at TradeRev. Its purpose is for candidates to demonstrate their problem solving ability, development experience in a mildly realistic development context and for us to establish a starting point for a technical on-site interview down the line.
