@@ -21,7 +21,7 @@ You have been tasked with building a simple online car auction system which will
 ## Expectations
  - You may use any appropriate libraries to help
  - Use the language that you feel you are the strongest
- - Please fork https://github.com/DavidLiu-traderev/software_developer_code_challenge and keep it public until we have been able to review it
+ - Please fork this (https://github.com/TradeRev/tr-coding-challenge) and keep it public until we have been able to review it
  - Provide a README to run/build the project and explain anything that you leave aside
 
 ## Assessment
