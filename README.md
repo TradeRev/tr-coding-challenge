@@ -12,7 +12,7 @@ You have been tasked with building a simple online car auction system which will
   - [ ] Get the current winning bid for a car
   - [ ] Get a car's bidding history 
 
- ### Bouns:
+ ### Bonus:
 
   - [ ] Unit Tests on the above functions
   - [ ] Develop a UI on web or mobile or CLI to showcase the above functionality
